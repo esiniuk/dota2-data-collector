@@ -1,4 +1,4 @@
-import solvesudoku.MatchesDataCollector;
+import collectors.MatchesDataCollector;
 
 public class CollectMatchesDB {
 

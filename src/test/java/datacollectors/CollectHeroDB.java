@@ -1,4 +1,4 @@
-import solvesudoku.HeroDataCollector;
+import collectors.HeroDataCollector;
 import ui.HeroPage;
 
 public class CollectHeroDB {
