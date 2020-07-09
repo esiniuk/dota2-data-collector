@@ -1,7 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="479c4671-f25d-4c89-9a1c-e47a3b9df783" name="Default Changelist" comment="" />
+    <list default="true" id="479c4671-f25d-4c89-9a1c-e47a3b9df783" name="Default Changelist" comment="Initial commit">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dota2-data-collector.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/CollectHeroDB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/CollectMatchesDB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/CollectPromatchesDB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/CollectSimplePromatchesDB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/CollectTeamsDB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/drivers/DriverFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/run.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/solvesudoku/HeroDataCollector.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/solvesudoku/MatchesDataCollector.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/solvesudoku/SudokuParser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/solvesudoku/SudokuSolver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/solvesudoku/SudokuValidators.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/solvesudoku/TournamentDataCollector.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/solvesudoku/TournamentDataCollectorSimple.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ui/HeroPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ui/StartPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ui/TeamCounterPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ui/TeamPickBanPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ui/TournamentPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/utils/RunProperties.class" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,6 +59,7 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="csv" value="5" />
+          <entry key="gitignore" value="1" />
           <entry key="java" value="39" />
           <entry key="properties" value="2" />
           <entry key="xml" value="2" />
@@ -40,7 +69,7 @@
         <counts>
           <entry key="CSV" value="4" />
           <entry key="JAVA" value="39" />
-          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="PLAIN_TEXT" value="2" />
           <entry key="Properties" value="2" />
           <entry key="XML" value="2" />
         </counts>
@@ -48,6 +77,7 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="csv" value="30" />
+          <entry key="gitignore" value="37" />
           <entry key="java" value="474" />
           <entry key="properties" value="8" />
           <entry key="txt" value="14" />
@@ -57,7 +87,7 @@
         <counts>
           <entry key="CSV" value="30" />
           <entry key="JAVA" value="474" />
-          <entry key="PLAIN_TEXT" value="14" />
+          <entry key="PLAIN_TEXT" value="51" />
           <entry key="Properties" value="8" />
         </counts>
       </usages-collector>
@@ -78,19 +108,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="13" column="10" lean-forward="true" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ui/HeroPage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="9" column="32" selection-start-line="9" selection-end-line="10" />
+            <state relative-caret-position="125">
+              <caret line="5" column="14" lean-forward="true" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -205,6 +226,7 @@
         <option value="$PROJECT_DIR$/src/main/java/utils/RunProperties.java" />
         <option value="$PROJECT_DIR$/src/main/java/CollectTeamsDB.java" />
         <option value="$PROJECT_DIR$/src/main/java/CollectPromatchesDB.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -225,10 +247,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-224" />
-    <option name="y" value="91" />
-    <option name="width" value="1922" />
-    <option name="height" value="1000" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -244,11 +266,6 @@
             <path>
               <item name="dota2-data-collector" type="b2602c69:ProjectViewProjectNode" />
               <item name="dota2-data-collector" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dota2-data-collector" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dota2-data-collector" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="dota2-data-collector" type="b2602c69:ProjectViewProjectNode" />
@@ -317,12 +334,12 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1594321512238" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1594322098914" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -426,7 +443,14 @@
       <option name="project" value="LOCAL" />
       <updated>1594248133644</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Initial commit">
+      <created>1594322047810</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1594322047810</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -434,8 +458,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30916846" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30916846" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -452,7 +477,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49840087" visible="true" weight="0.3253796" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49840087" visible="true" weight="0.3253796" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50159913" side_tool="true" weight="0.3253796" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.3275488" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -701,6 +726,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="325">
           <caret line="13" column="10" lean-forward="true" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="14" lean-forward="true" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
         </state>
       </provider>
     </entry>
