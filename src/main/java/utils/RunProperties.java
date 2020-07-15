@@ -44,5 +44,7 @@ public class RunProperties {
 
     public static String getTournamentPageAddress() { return  getPropertyByName("tournament_page"); }
 
+    public static String getTeamPageAddress() { return  getPropertyByName("team_page"); }
+
     public static String getBrowser() { return  getPropertyByName("browser"); }
 }
