@@ -13,5 +13,7 @@ public class CollectPromatchesDB {
         tournamentPage.open();
         tournamentDataCollector.collectData();
         tournamentPage.close();
+        System.out.println();
     }
+
 }
