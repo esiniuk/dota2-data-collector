@@ -1,5 +1,6 @@
-import solvesudoku.TournamentDataCollector;
-import solvesudoku.TournamentDataCollectorSimple;
+package datacollectors;
+
+import collectors.TournamentDataCollectorSimple;
 import ui.TournamentPage;
 
 import java.io.IOException;

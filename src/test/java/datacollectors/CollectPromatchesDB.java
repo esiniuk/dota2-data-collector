@@ -1,4 +1,6 @@
-import solvesudoku.TournamentDataCollector;
+package datacollectors;
+
+import collectors.TournamentDataCollector;
 import ui.TournamentPage;
 
 public class CollectPromatchesDB {

@@ -1,14 +1,9 @@
-package solvesudoku;
-
-import org.openqa.selenium.By;
-import sun.rmi.runtime.Log;
+package collectors;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.net.HttpURLConnection;
 import java.net.URL;
-
-import static drivers.DriverFactory.driver;
 
 public class MatchesDataCollector {
 
