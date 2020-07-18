@@ -1,3 +1,5 @@
+package datacollectors;
+
 import collectors.MatchesDataCollector;
 
 public class CollectMatchesDB {

@@ -1,3 +1,5 @@
+package datacollectors;
+
 import collectors.HeroDataCollector;
 import ui.HeroPage;
 
@@ -8,7 +10,7 @@ public class CollectHeroDB {
 
     public static void main (String[] agrs){
 
-        for(int i = 0; i < 8 ; ++i) {
+        for(int i = 0; i < 1 ; ++i) {
             heroPage.open();
             heroDataCollector.collectData();
         }

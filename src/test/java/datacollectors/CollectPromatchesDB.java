@@ -1,3 +1,5 @@
+package datacollectors;
+
 import collectors.TournamentDataCollector;
 import ui.TournamentPage;
 
